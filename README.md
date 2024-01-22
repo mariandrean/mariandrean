@@ -1,6 +1,4 @@
-### Hi there 👋
-## Github Profile
-### *Maria Andrea An*
+## *Maria Andrea An*
 
 - 🌱 I’m currently learning Full Stack Web Development at Factoria F5
 <a href="https://github.com/anuraghazra/convoychat">
