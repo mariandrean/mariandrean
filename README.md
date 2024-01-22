@@ -2,6 +2,8 @@
 ## Github Profile
 ### *Maria Andrea An*
 
+- 🌱 I’m currently learning Full Stack Web Development
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariandrean&show_icons=true&theme=dracula)
 
 <!--
