@@ -1,6 +1,6 @@
 ## *Maria Andrea An*
 
-- 🌱 I’m currently learning Full Stack Web Development at Factoria F5
+- 🌱 I’m currently learning Full Stack Web Development
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandrean&layout=compact" />
 </a>
