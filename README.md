@@ -1,13 +1,14 @@
 ## *Maria Andrea An*
 
 - 🌱 I’m currently learning Full Stack Web Development
+<hr>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandrean&layout=compact" />
+  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandrean&layout=compact&theme=monokai" />
 </a>
+<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&show_icons=true&theme=monokai&include_all_commits=true" />
 </a>
-
 <!--
 **mariandrean/mariandrean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
