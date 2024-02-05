@@ -9,6 +9,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&show_icons=true&theme=monokai&include_all_commits=true" />
 </a>
+
+### 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=mariandrean&row=2&column=3&theme=gitdimmed&no-frame=true)
+
 <!--
 **mariandrean/mariandrean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
