@@ -7,7 +7,7 @@
 </a>
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&show_icons=true&theme=monokai&include_all_commits=true" />
+  <img width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&show_icons=true&theme=monokai" />
 </a>
 
 ### 🏆 GitHub Trophies
