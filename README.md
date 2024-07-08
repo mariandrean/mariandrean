@@ -20,6 +20,7 @@
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  
   ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -36,15 +37,15 @@
 </details>
 
 ### GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&show_icons=true&theme=monokai" />
-</a>
-<br><br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandrean&layout=donut&theme=monokai" />
-</a>
-<br><br>
+
+<img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&theme=monokai" />
+
+<details>
+  <summary>Most Used Languages</summary>
+<img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandrean&layout=donut&theme=monokai" />
+</details>
+
 <details>
   <summary>Trophies</summary>
-  <img width=300 align="center" src="https://github-profile-trophy.vercel.app/?username=mariandrean&row=2&column=3&theme=monokai&no-frame=true" />
+  <img width=400 align="center" src="https://github-profile-trophy.vercel.app/?username=mariandrean&row=2&column=3&theme=monokai&no-frame=true" />
 </details>
