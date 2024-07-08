@@ -1,7 +1,5 @@
 ## *Maria Andrea An*
 
-- 🌱 I’m currently learning Full Stack Web Development
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=600 align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&show_icons=true&theme=monokai" />
 </a>
