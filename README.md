@@ -1,4 +1,19 @@
-# I'm Maria, welcome to my Github 😊
+# Hi there, welcome to my Github 😊
+
+## About Me
+
+```
+const MARIA = "Maria Andrea An";
+
+MARIA.eat(); MARIA.sleep(); MARIA.code(); MARIA.repeat();
+```
+
+I'm a Full Stack Web Developer and Figure Skating Coach who also enjoys:
+- music 🎧
+- gaming 🎮
+- archery 🏹
+
+### Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript)
@@ -40,16 +55,16 @@
 
 ### GitHub Stats
 
-<img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&theme=monokai" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&theme=monokai" />
 
 <details>
   <summary>Most Used Languages</summary>
-<img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandrean&layout=donut&theme=monokai" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandrean&layout=donut&theme=monokai" />
 </details>
 
 <details>
   <summary>Trophies</summary>
-  <img width=300 align="center" src="https://github-profile-trophy.vercel.app/?username=mariandrean&row=2&column=3&theme=monokai&no-frame=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mariandrean&row=2&column=3&theme=monokai&no-frame=true" />
 </details>
 
 ### Thanks for visiting 😎
