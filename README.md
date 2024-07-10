@@ -1,17 +1,15 @@
-# Hi there, welcome to my Github 😊
+# Hey there, welcome to my Github 😊
 
 ## About Me
 
 ```
-const MARIA = "Maria Andrea An";
+let developer = {
+                    name: "Maria",
+                    hobbies: ["music 🎧", "gaming 🎮", "archery 🏹"]
+}
 
-MARIA.eat(); MARIA.sleep(); MARIA.code(); MARIA.repeat();
+developer.eat(); developer.sleep(); developer.code(); developer.repeat();
 ```
-
-I'm a Full Stack Web Developer and Figure Skating Coach who also enjoys:
-- music 🎧
-- gaming 🎮
-- archery 🏹
 
 ### Technologies
 
@@ -20,7 +18,6 @@ I'm a Full Stack Web Developer and Figure Skating Coach who also enjoys:
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/Node.js-%23323330?style=for-the-badge&logo=node.js)
 ![Jest](https://img.shields.io/badge/Jest-%23323330?style=for-the-badge&logo=Jest&logoColor=red)
-
 
 <details>
   <summary>And more...</summary>
@@ -55,16 +52,16 @@ I'm a Full Stack Web Developer and Figure Skating Coach who also enjoys:
 
 ### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&theme=monokai" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariandrean&theme=monokai&show_icons=true" />
 
 <details>
   <summary>Most Used Languages</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandrean&layout=donut&theme=monokai" />
+<img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandrean&layout=donut&theme=monokai" />
 </details>
 
 <details>
   <summary>Trophies</summary>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mariandrean&row=2&column=3&theme=monokai&no-frame=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mariandrean&row=1&column=4&theme=monokai&no-frame=true" />
 </details>
 
 ### Thanks for visiting 😎
